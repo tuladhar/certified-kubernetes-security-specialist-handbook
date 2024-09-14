@@ -1,3 +1,5 @@
+# About the book
+
 ![image](https://github.com/user-attachments/assets/3afdb1f9-0186-47fc-ad52-fd2bb8487f55)
 
 This book is for anyone committed to passing the CKS exam. Whether you’re just beginning your preparation or need a final boost, this book is here to guide you every step of the way. 
