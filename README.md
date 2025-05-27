@@ -1,4 +1,4 @@
-# ✨ Book website launched → https://cks.purutuladhar.com
+# ✨ Book website launched → [cks.purutuladhar.com](https://cks.purutuladhar.com)
 
 ![image](https://github.com/user-attachments/assets/3afdb1f9-0186-47fc-ad52-fd2bb8487f55)
 
